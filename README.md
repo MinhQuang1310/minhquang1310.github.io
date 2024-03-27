@@ -1,16 +1,1 @@
-## <!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Form</title>
-</head>
-<body>
-    <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSct_kRYvonaTc2JvI5X6oPb6M8lG1ivLJZ_vLxEDvMx42p89A/viewform?embedded=true" width="100%" height="800" frameborder="0" marginheight="0" marginwidth="0">Đang tải…</iframe>
-    <div id="fb-root"></div>
-    <script async defer crossorigin="anonymous" src="https://connect.facebook.net/vi_VN/sdk.js#xfbml=1&version=v19.0"
-        nonce="YSzJMHJe"></script>
-    <div class="fb-comments" data-href="https://github.com/MinhQuang1310/minhquang1310.github.io" data-width=""
-        data-numposts="5"></div>
-</body>
-</html>
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSct_kRYvonaTc2JvI5X6oPb6M8lG1ivLJZ_vLxEDvMx42p89A/viewform?embedded=true" width="640" height="756" frameborder="0" marginheight="0" marginwidth="0">Đang tải…</iframe>
