@@ -1,1 +1,2 @@
-# [Please rate my repo](https://bp6r5yjfmu5.typeform.com/to/D9LQYbL5) if it useful for you.
+# [Please rate my repo by Typeform](https://bp6r5yjfmu5.typeform.com/to/D9LQYbL5) if it useful for you.
+# [Please rate my repo by Google Form](https://docs.google.com/forms/d/e/1FAIpQLSct_kRYvonaTc2JvI5X6oPb6M8lG1ivLJZ_vLxEDvMx42p89A/viewform?usp=sf_link) if it useful for you.
